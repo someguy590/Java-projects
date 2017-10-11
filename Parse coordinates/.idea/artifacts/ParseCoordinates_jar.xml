@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ParseCoordinates:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ParseCoordinates_jar</output-path>
+    <root id="archive" name="Parse coordinates.jar">
+      <element id="module-output" name="Parse coordinates" />
+    </root>
+  </artifact>
+</component>

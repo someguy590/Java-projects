@@ -1,0 +1,50 @@
+Puzzle
+239.213.32.192
+109.85.216.45
+47.157.241.204
+112.61.116.88
+206.211.214.226
+168.170.152.241
+70.154.25.245
+191.230.48.33
+235.82.43.191 // Used ascii code to find string message (case sensitive)
+203.58.75.162
+1.2.3.4 // Need to finish 2048 puzzle
+143.107.19.199
+170.230.93.117
+148.214.210.19
+137.157.251.33
+55.61.214.37
+128.21.146.251
+199.106.150.51 
+197.80.86.36
+162.23.42.22
+
+// NPC to do on 143.107.19.199 (2nd Whois)
+143.107.19.199 // Stronger than 2.7 2.6 2.4
+20.201.87.214 // Stronger than 2.7 2.6 2.4
+229.5.125.228 // Stronger than 2.7 2.6 2.4
+84.50.237.94 // Stronger than 2.7 2.6 2.4
+
+
+
+File mss.txt // found on 24.195.79.70
+1CbcmnYICt3xFdAXwHMIGUMArvlHRLR2n3 using key eKrdt3HwAmKbkgS7Zz2Lathvb8h3bF6qpxDSBlpcH9n2qg9qQbc0FtwQCOTOt0eS
+
+// Ips of note
+2016-05-26 22:27 - [83.140.222.180] logged in as root // Has 13.6 cracker!
+1.147.229.151 // Stronger than 8.0 3.0 3.0
+213.40.38.245 // Clan server
+158.241.157.218 // Has 13.8 cracker (2.3 GB), 11.7 AV (1.1)
+
+
+// Naughty
+
+
+// vpc
+13.120.251.37 // no virus
+77.95.111.243 // has no virus
+40.123.250.69 // stronger than 8.0 3.0 3.0
+
+
+Virus heartbleed (1.0) isn't responding anymore from IP [239.156.226.72].

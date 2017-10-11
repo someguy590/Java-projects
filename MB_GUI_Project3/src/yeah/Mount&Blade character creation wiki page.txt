@@ -1,0 +1,65 @@
+Base characterEdit
+Attributes 	Proficiencies 	Skills 	Gender
+
+    STR: 5
+    AGI: 5
+    INT: 4
+    CHA: 5 
+
+	
+
+    One-handed weapons: 23
+    Two-handed weapons: 15
+    Polearms: 20
+    Archery: 15
+    Crossbows: 15
+    Throwing: 19 
+
+	
+
+    Riding: 1
+    Leadership: 1 
+
+	
+
+    Male: STR +1, CHA +1
+    Female: AGI +1, INT +1 
+
+Your father was...Edit
+Father 	Attributes 	Skills 	Proficiencies 	Equipment
+Noble (base) 	INT +1, CHA +1 	Riding +1, Leadership +1 	1H +2, Pole +7 	Battered Old Round Shield, +100 Denars, +50 Renown, Banner
+Noble (male) 	CHA +1 	Power Strike +1, Weapon Master +1, Tactics +1 	2H +15, Pole +14 	+50 Renown, +3 Honor
+Noble (female) 	INT +1 	Riding +1, Wound Treatment +1, First Aid +1 	1H +12 	
+Merchant 	INT +2, CHA +1 	Riding +1, Inventory Management +1, Leadership +1, Trade +2 	2H +15, Pole +7 	+250 Denars, +20 Renown
+Warrior 	STR +1, AGI +1, CHA +1 	Ironflesh +1, Power Strike +1, Weapon Master +1, Trainer +1, Leadership +1 	1H+2, 2H +23, Pole +33, Throwing +15 	Battered Plain Kite Shield, +50 Denars, +10 Renown
+Hunter 	STR +1, AGI +2 	Power Draw +1, Athletics +1, Tracking +1, Path-finding +1, Spotting +1 	2H +15, Pole +7, Archery +49 	+30 Denars
+Nomad (base) 	STR +1, AGI +1, INT +1 	Riding +2, Path-Finding +1 	1H +2, Pole +7, Archery +32, Throwing +7 	Battered Plain Cavalry Shield, +15 Denars +10 Renown
+Nomad (male) 		Power Draw +1, Horse Archery +1 	Archery +17, Throwing +8 	+10 Renown
+Nomad (female) 		Wound Treatment +1, First Aid +1 	1H +3 	+5 Denars +10 Renown
+Thief 	AGI +3 	Power Throw +1, Athletics +2, Looting +1, Inventory Management +1 	1H +14, Pole +7, Throwing +31 	Throwing Knives, +25 Denars
+
+Early LifeEdit
+Early Life 	Attributes 	Skills 	Proficiencies 	Other
+Page 	STR +1, CHA +1 	Power Strike +1, Persuasion +1 	1H +8, Pole +3 	
+Apprentice 	STR +1, INT +1 	Engineer +1, Trade +1 		
+Assistant 	INT +1, CHA +1 	Inventory Management +1, Trade +1 		
+Urchin 	AGI +1, INT +1 	Looting +1, Spotting +1 	1H +8, Throwing +7 	
+Steppe Child 	STR +1, AGI +1 	Power Throw +1, Horse Archery +1 	Archery +24 	+5 Renown
+
+AdulthoodEdit
+Occupation	Attributes 	Skills 	Proficiencies 	Equipment
+Squire (male) 	STR +1, AGI +1 	Power Strike +1, Weapon Master +1, Riding +1, Leadership +1 	1H +23, 2H +38, Pole +22, Archery +16, Crossbows +16, Throwing +14 	Ragged Leather Jerkin, Tattered Leather Boots, Swaybacked Saddle Horse, Rusty Sword, Hunting Crossbow, Bolts, Smoked Fish, +20 Denars
+Lady in Waiting (female) 	INT +1, CHA +1 	Riding +1, Wound Treatment +1, Persuasion +2 	1H +8, Crossbows +24 	Sturdy Woollen Hood, Sturdy Woollen Dress, Spirited Courser, Dagger, Hunting Crossbow, Bolts, Smoked Fish, +100 Denars
+Troubadour 	CHA +2 	Weapon Master +1, Path-finding +1, Persuasion +1, Leadership +1 	1H +19, Crossbows +16 	Sturdy Tabard, Ragged Leather Boots, Swaybacked Saddle Horse, Rusty Sword, Hunting Crossbow, Bolts, Smoked Fish, +80 Denars
+Student 	INT +2 	Weapon Master +1, Wound Treatment +1, Surgery +1, Persuasion +1 	1H +15, Crossbows +32 	Sturdy linen tunic, Woollen hose, Swaybacked saddle horse, Rusty sword, Hunting crossbow, Bolts, Smoked fish, Book (random), +80 Denars
+Peddler 	INT +1, CHA +1 	Riding +1, Path-finding +1, Inventory Management +1, Trade +1 	Pole +11 	Fur Hat, Leather Jacket, Ragged Leather Boots, Leather Gloves, Saddle Horse, Staff, Hunting Crossbow, Bolts, Smoked Fish, Linen, Pottery, 2x Wool, Sumpter Horse, +90 Denars
+Smith 	STR +1, INT +1 	Weapon Master +1, Tactics +1, Engineer +1, Trade +1 	1H +11 	Coarse Tunic, Ragged Leather Boots, Saddle Horse, Balanced Sword, Hunting Crossbow, Bolts, Smoked Fish, Tools, +100 Denars
+Poacher 	STR +1, AGI +1 	Power Draw +1, Athletics +1, Tracking +1, Spotting +1 	Pole +7, Archery +57 	Rawhide Coat, Hide Boots, Heavy Sumpter Horse, Chipped Axe, Hunting Bow, Barbed Arrows, 2x Dried Meat, 2x Furs, +10 Denars
+
+Reason for adventuringEdit
+Reason 	Attributes 	Skills
+Revenge 	STR +2 	Power Strike +1
+Loss 	CHA +2 	Ironflesh +1
+Wanderlust 	AGI +2 	Path-finding +1
+Forced out 	STR +1, INT +1 	Weapon Master +1
+Money 	AGI +1, INT +1 	Looting +1 

@@ -1,0 +1,1 @@
+This paragraph will be 100 characters long. 100 characters are 800 bits if each character is 8 bits.

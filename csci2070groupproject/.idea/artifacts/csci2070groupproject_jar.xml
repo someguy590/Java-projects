@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csci2070groupproject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/csci2070groupproject_jar</output-path>
+    <root id="archive" name="csci2070groupproject.jar">
+      <element id="module-output" name="csci2070groupproject" />
+    </root>
+  </artifact>
+</component>

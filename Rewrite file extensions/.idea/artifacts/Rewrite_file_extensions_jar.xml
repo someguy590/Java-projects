@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Rewrite file extensions:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rewrite_file_extensions_jar</output-path>
+    <root id="archive" name="Rewrite file extensions.jar">
+      <element id="module-output" name="Rewrite file extensions" />
+    </root>
+  </artifact>
+</component>

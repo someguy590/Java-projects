@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="MB_GUI_Project3.jnlp">
+  <information>
+    <title>MB_GUI_Project3</title>
+    <vendor>someguy590</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="MB_GUI_Project3.jar" size="7883" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="MB_GUI_Project3" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="mb_gui_project2.MB_GUI_Project2"  name="MB_GUI_Project3" />
+  <update check="always"/>
+</jnlp>
